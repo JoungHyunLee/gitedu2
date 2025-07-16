@@ -39,3 +39,23 @@
 
 # debug information files
 *.dwo
+/x64/Debug/vc142.idb
+/x64/Debug/GitEduConsole.vcxproj.FileListAbsolute.txt
+/x64/Debug/GitEduConsole.tlog/link.write.1.tlog
+/x64/Debug/GitEduConsole.tlog/link.read.1.tlog
+/x64/Debug/GitEduConsole.tlog/link.command.1.tlog
+/x64/Debug/GitEduConsole.tlog/GitEduConsole.lastbuildstate
+/x64/Debug/GitEduConsole.tlog/CL.write.1.tlog
+/x64/Debug/GitEduConsole.tlog/CL.read.1.tlog
+/x64/Debug/GitEduConsole.tlog/CL.command.1.tlog
+/x64/Debug/GitEduConsole.tlog
+/x64/Debug/GitEduConsole.log
+/x64/Debug/GitEduConsole.exe.recipe
+/x64/Debug
+/.vs/GitEduConsole/v16/ipch/AutoPCH/9b1d039488812f3d/GITEDUCONSOLE.ipch
+/.vs/GitEduConsole/v16/ipch/AutoPCH/9b1d039488812f3d
+/.vs/GitEduConsole/v16/Browse.VC.opendb
+/.vs/GitEduConsole/v16/Browse.VC.db-wal
+/.vs/GitEduConsole/v16/Browse.VC.db-shm
+/.vs/GitEduConsole/v16/Browse.VC.db
+/.vs/GitEduConsole/v16/.suo
